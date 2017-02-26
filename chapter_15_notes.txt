@@ -1,0 +1,4 @@
+User-defined type is called a 'class'
+
+class Point(object):
+  """Represents a point in 2-D space."""
